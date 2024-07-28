@@ -2,7 +2,9 @@
 2.Now open the files using vs code.</br></br>
 ![cmd](https://github.com/user-attachments/assets/1aaf662b-51d4-4710-9642-0c4c13078670)</br>
 ![cmd_code](https://github.com/user-attachments/assets/c4271cc7-6d89-4260-91a1-86a1f5ba9406)</br></br></br>
-3.Open a new terminal in vs code.</br>
+3.Open a new terminal in vs code.</br></br>
+![vs_terminal](https://github.com/user-attachments/assets/9d5b6280-c43e-4d00-ba7a-e68ec4236b5e)</br>
+![terminal](https://github.com/user-attachments/assets/bdf7948f-9835-4038-a8b5-63e749300bcd)</br></br></br>
 4.Then run the following command.</br>
 <h4>*npm install</h4>
 <h4>*npm install react-bootstrap bootstrap</h4>
