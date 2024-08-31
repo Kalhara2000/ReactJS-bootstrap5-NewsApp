@@ -1,4 +1,4 @@
-1.Download these files. https://react-js-bootstrap5-news-app-b23s.vercel.app/</br>
+1.Download these files.</br>
 2.Now open the files using vs code.</br></br>
 ![cmd](https://github.com/user-attachments/assets/1aaf662b-51d4-4710-9642-0c4c13078670)</br>
 ![cmd_code](https://github.com/user-attachments/assets/c4271cc7-6d89-4260-91a1-86a1f5ba9406)</br></br></br>
