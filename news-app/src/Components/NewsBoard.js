@@ -6,7 +6,8 @@ const NewsBoard = ({ category }) => {
 
   useEffect(() => {
     const fetchArticles = async () => {
-      const apiKey = process.env.REACT_APP_NEWS_API_KEY;
+      //const apiKey = process.env.REACT_APP_NEWS_API_KEY;
+      const apiKey = "pub_49538f832c0be4a01e687abcb32377fb8fd5e";
       const url = `https://newsdata.io/api/1/latest?country=lk&category=${category}&apikey=${apiKey}&q=sri lanka`;
       try {
         const response = await fetch(url);
